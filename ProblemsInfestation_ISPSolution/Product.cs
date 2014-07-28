@@ -4,10 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemsInfestation
+namespace ProblemsInfestation_ISPSolution
 {
-    // this class violates ISP
-    public class Product
+
+    interface ISellableProduct
+    {
+        bool ProductSold { get; set; }
+        decimal ProductPrice { get; set; }
+    }
+
+    interface IExpireableProduct
+    {
+        DateTime ProductExpiryDate { get; set; }
+    }
+
+    public class Product : ISellableProduct, IExpireableProduct
     {
         //Should have a factory instead of constructor only creation
         public Product()
@@ -18,16 +29,9 @@ namespace ProblemsInfestation
 
         public string ProductName { get; set; }
 
-        public decimal ProductPrice { get; set; }
-
-        public DateTime ProductExpiryDate { get; set; }
-
+        // Interface implementations
         public bool ProductSold { get; set; }
-
-        //This function here violates SRP
-        public void SellProduct()
-        {
-            // Any code here would be violating SRP
-        }
+        public decimal ProductPrice { get; set; }
+        public DateTime ProductExpiryDate { get; set; }
     }
 }

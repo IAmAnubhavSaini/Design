@@ -22,6 +22,8 @@ namespace ProblemsInfestation_SRPSolution
         public DateTime ProductExpiryDate { get; set; }
 
         public bool ProductSold { get; set; }
+
+        // Product selling is done via BusinessActions
     }
 
 

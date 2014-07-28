@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation_Factory
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation_SRPSolution", "ProblemsInfestation_SRPSolution\ProblemsInfestation_SRPSolution.csproj", "{CF7E67AA-1A5C-43FF-A72D-376C26AFD1C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation_ISPSolution", "ProblemsInfestation_ISPSolution\ProblemsInfestation_ISPSolution.csproj", "{67D3E5C3-3809-4223-82E4-21CD028923D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CF7E67AA-1A5C-43FF-A72D-376C26AFD1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF7E67AA-1A5C-43FF-A72D-376C26AFD1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF7E67AA-1A5C-43FF-A72D-376C26AFD1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
