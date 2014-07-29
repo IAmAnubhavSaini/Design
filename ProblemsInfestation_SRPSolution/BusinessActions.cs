@@ -5,10 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ProblemsInfestation_SRPSolution
+namespace ProblemsSolution_SRP
 {
     public class BusinessActions
     {
+        // refer ProblemsInfestation.Product for SRP violation
+        // refer ProblemsSolution_SRPS
         public static bool SellProduct(Product product, Order order, Customer customer)
         {
             

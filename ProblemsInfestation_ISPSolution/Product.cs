@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemsInfestation_ISPSolution
+namespace ProblemsSolution_ISP
 {
 
     interface ISellableProduct

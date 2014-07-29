@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemsInfestation_FactorySolution
+namespace ProblemsSolution_Factory
 {
     public class Customer
     {

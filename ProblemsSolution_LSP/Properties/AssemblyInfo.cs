@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ProblemsSolution_SRP")]
+[assembly: AssemblyTitle("ProblemsSolution_LSP")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ThoughtWorks")]
-[assembly: AssemblyProduct("ProblemsSolution_SRP")]
+[assembly: AssemblyProduct("ProblemsSolution_LSP")]
 [assembly: AssemblyCopyright("Copyright © ThoughtWorks 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("696bba67-acad-4a3d-ad3d-acc51a8db244")]
+[assembly: Guid("3f21da09-7d9d-4e68-bc43-79de29ed60b9")]
 
 // Version information for an assembly consists of the following four values:
 //

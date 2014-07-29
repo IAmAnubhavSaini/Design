@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_ISP", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_ZOI", "ProblemsSolution_ZOI\ProblemsSolution_ZOI.csproj", "{D6343F99-9741-400A-9F66-E41EEA2DB40A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_LSP", "ProblemsSolution_LSP\ProblemsSolution_LSP.csproj", "{6F425E5B-979B-4E37-976C-747F1F0EB192}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

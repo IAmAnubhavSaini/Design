@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemsInfestation_SRPSolution
+namespace ProblemsSolution_SRP
 {
     public class Product
     {
@@ -24,6 +24,9 @@ namespace ProblemsInfestation_SRPSolution
         public bool ProductSold { get; set; }
 
         // Product selling is done via BusinessActions
+        // Selling itself is not the Product's responsibility
+        // thus SRP problem has been removed from here
+        // refer ProblemsInfestation.Product
     }
 
 
