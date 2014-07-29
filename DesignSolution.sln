@@ -7,11 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignConsole", "DesignCons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation", "ProblemsInfestation\ProblemsInfestation.csproj", "{E1786C14-A440-4C12-A8AF-8ED4EEF16603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation_FactorySolution", "ProblemsInfestation_FactorySolution\ProblemsInfestation_FactorySolution.csproj", "{53F71A8E-2909-4405-9324-6BC168B42D6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_Factory", "ProblemsInfestation_FactorySolution\ProblemsSolution_Factory.csproj", "{53F71A8E-2909-4405-9324-6BC168B42D6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation_SRPSolution", "ProblemsInfestation_SRPSolution\ProblemsInfestation_SRPSolution.csproj", "{CF7E67AA-1A5C-43FF-A72D-376C26AFD1C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_SRP", "ProblemsInfestation_SRPSolution\ProblemsSolution_SRP.csproj", "{CF7E67AA-1A5C-43FF-A72D-376C26AFD1C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsInfestation_ISPSolution", "ProblemsInfestation_ISPSolution\ProblemsInfestation_ISPSolution.csproj", "{67D3E5C3-3809-4223-82E4-21CD028923D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_ISP", "ProblemsInfestation_ISPSolution\ProblemsSolution_ISP.csproj", "{67D3E5C3-3809-4223-82E4-21CD028923D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_ZOI", "ProblemsSolution_ZOI\ProblemsSolution_ZOI.csproj", "{D6343F99-9741-400A-9F66-E41EEA2DB40A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67D3E5C3-3809-4223-82E4-21CD028923D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6343F99-9741-400A-9F66-E41EEA2DB40A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

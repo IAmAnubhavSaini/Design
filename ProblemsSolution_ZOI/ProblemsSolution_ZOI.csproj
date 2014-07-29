@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E1786C14-A440-4C12-A8AF-8ED4EEF16603}</ProjectGuid>
+    <ProjectGuid>{D6343F99-9741-400A-9F66-E41EEA2DB40A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProblemsInfestation</RootNamespace>
-    <AssemblyName>ProblemsInfestation</AssemblyName>
+    <RootNamespace>ProblemsSolution_ZOI</RootNamespace>
+    <AssemblyName>ProblemsSolution_ZOI</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,9 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customer.cs" />
     <Compile Include="Order.cs" />
-    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
