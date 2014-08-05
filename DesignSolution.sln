@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_ZOI", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsSolution_LSP", "ProblemsSolution_LSP\ProblemsSolution_LSP.csproj", "{6F425E5B-979B-4E37-976C-747F1F0EB192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasurementProblem", "MeasurementProblem\MeasurementProblem.csproj", "{CB1D6B1D-CDEC-453A-8F1B-0AB87BBA314B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F425E5B-979B-4E37-976C-747F1F0EB192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1D6B1D-CDEC-453A-8F1B-0AB87BBA314B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB1D6B1D-CDEC-453A-8F1B-0AB87BBA314B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB1D6B1D-CDEC-453A-8F1B-0AB87BBA314B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB1D6B1D-CDEC-453A-8F1B-0AB87BBA314B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
